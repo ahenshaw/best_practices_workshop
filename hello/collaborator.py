@@ -1,2 +1,2 @@
-first = "lauren lee"
+first = "Lauren"
 last  = "staples"
