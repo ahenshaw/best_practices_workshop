@@ -1,2 +1,3 @@
-first = "Andrew the pre-eminent"
+first = "Andrew"
 last  = "Henshaw"
+suffix = ""
