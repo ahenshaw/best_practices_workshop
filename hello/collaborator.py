@@ -1,2 +1,2 @@
-first = "Lauren The Best Data Scientist"
+first = "Lauren The. Best. Data Scientist"
 last  = "Staples"
